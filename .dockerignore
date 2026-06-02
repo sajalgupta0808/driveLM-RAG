@@ -1,0 +1,9 @@
+venv
+.git
+__pycache__
+.ipynb_checkpoints
+
+data/nuscenes
+
+*.bin
+*.pcd
